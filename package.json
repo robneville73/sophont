@@ -8,7 +8,11 @@
   },
   "author": "",
   "license": "MIT",
+  "repository": "https://github.com/robneville73/sophont",
   "dependencies": {
-    "express": "^4.16.1"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "hbs": "^4.0.1",
+    "mongoose": "^4.11.14"
   }
 }

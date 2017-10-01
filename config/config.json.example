@@ -1,0 +1,5 @@
+{
+  "dbuser": "db user name",
+  "dbpass": "db passwd",
+  "dbhost": "host / db name for mongo instance"
+}
